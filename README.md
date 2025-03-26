@@ -1,1 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/kl-E8VQf)
+# GIT IGNORE
+
+El *.git ignore* es un archivo de texto que indica a Git que carpetas o archivos ignorar.
+
+### ¿Por qué es conveniente incluirlo?
+
+Es conveniente incluirlo cuando queremos que ciertos archivos o carpetas no se muestren en nuestro proyecto.
+
+### ¿Cómo configuraría el archivo .gitignore?
+
+Crearía un archivo llamado .gitignore en la carpeta raíz del proyecto, y adentro del mismo colocaría los archivos o carpetas que quisiese ignorar.
+
