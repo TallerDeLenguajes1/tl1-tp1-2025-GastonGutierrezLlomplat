@@ -11,5 +11,10 @@ Crearía un archivo llamado .gitignore en la carpeta raíz del proyecto, y adent
 
 ## ¿Cuándo se debe hacer?
 
-Se debe hacer cuando hay cierta información, ya sea archivos o carpetas, que no queremos que sea sensible al público.
+Cuando hay cierta información, ya sea archivos o carpetas, que no queremos que sea sensible al público.
+Cuando hay archivos "basura" que no son relevantes para el proyecto.
 
+# Punto 3G
+
+El apartado 2 y 3 del punto anterior muestran lo mismo ya que en el punto 2, el puntero guarda la direccion de memoria de la variable, y en el punto 3, directamente mostramos la direccion de memoria de la variable sin otra variable auxiliar.
+En el punto 4 el resultado es distinto ya que se muestra por pantalla la direccion de memoria del puntero, *NO* de la variable.
